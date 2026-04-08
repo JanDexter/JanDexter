@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <strong>CS Student · Software Engineer · Community Builder</strong><br/>
+  <strong>CS Student · Software Engineer</strong><br/>
   <sub>Ateneo de Davao University · Davao City, Philippines</sub>
 </p>
 
