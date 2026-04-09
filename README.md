@@ -132,7 +132,6 @@ I'm a software engineer and CS student who builds full-stack web apps, designs s
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jandexter&hide_border=true&background=FAFAFA&ring=5883EF&fire=5883EF&currStreakLabel=5883EF&sideLabels=161F39&dates=161F39&currStreakNum=161F39&sideNums=161F39" alt="GitHub Streak" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandexter&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=5883EF&text_color=161F39&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
 
