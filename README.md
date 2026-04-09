@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://jandexter.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=1200&color=5883EF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jan+Dexter+%F0%9F%91%8B;Software+Engineer;Cloud+ Engineer" alt="Jan Dexter Diaz" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=1200&color=5883EF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Jan+Dexter+%F0%9F%91%8B;Software+Engineer;Cloud+Engineer" alt="Jan Dexter Diaz" />
 </a>
 
 <p>
@@ -132,8 +132,8 @@ I'm a software engineer and CS student who builds full-stack web apps, designs s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jandexter&show_icons=true&theme=default&hide_border=true&bg_color=FAFAFA&title_color=5883EF&icon_color=5883EF&text_color=161F39&ring_color=5883EF&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandexter&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=5883EF&text_color=161F39&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165" />
+<img src="https://streak-stats.demolab.com?user=jandexter&hide_border=true&background=FAFAFA&ring=5883EF&fire=5883EF&currStreakLabel=5883EF&sideLabels=161F39&dates=161F39&currStreakNum=161F39&sideNums=161F39" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandexter&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=5883EF&text_color=161F39&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
 
