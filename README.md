@@ -10,13 +10,13 @@
 
 <p>
   <a href="https://jandexter.me">
-    <img src="https://img.shields.io/badge/Portfolio-jandexter.me-5883EF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-jandexter.me-5883EF?style=for-the-badge&logo=safari&logoColor=white" alt="My Website"/>
   </a>
   <a href="https://linkedin.com/in/jandexter">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:diazjandexter@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
