@@ -26,7 +26,7 @@
 
 ## About
 
-I'm a software engineer and CS student who builds full-stack web apps, designs systems from scratch, and leads tech communities. I care a lot about clean architecture, good UX, and code that actually ships.
+Software/cloud engineer and CS student. I build full-stack web apps, design systems from first principles, and lead tech communities. The work I'm proudest of starts with conversations, with users, stakeholders, and beneficiaries, because I'd rather solve a real problem than a presumed one. Clean architecture, thoughtful UX, and a strong bias for shipping.
 
 - 🎓 BS Computer Science @ **Ateneo de Davao University**
 - ☁️ Cloud Club Lead (AWS) · EVP @ **ACCESS**
