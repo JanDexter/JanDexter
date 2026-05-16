@@ -26,7 +26,7 @@
 
 ## About
 
-Software/cloud engineer and CS student. I build full-stack web apps, design systems from first principles, and lead tech communities. The work I'm proudest of starts with conversations, with users, stakeholders, and beneficiaries, because I'd rather solve a real problem than a presumed one. Clean architecture, thoughtful UX, and a strong bias for shipping.
+I am a Cloud and Software Engineer, Computer Science student, and digital artist. I specialize in designing cloud systems from first principles, building full-stack web applications, and creating intuitive user experiences. My engineering philosophy is rooted in pragmatic problem solving. I avoid fixed tech stacks and instead evaluate the most reliable, cost-efficient tools for each specific project. Beyond writing code, I explore 3D modeling, pixel art, and webtoons, which allows me to bridge the gap between robust backend architecture and thoughtful frontend design. I also actively lead student tech communities and organize hackathons to empower the next generation of developers.
 
 - 🎓 BS Computer Science @ **Ateneo de Davao University**
 - ☁️ Cloud Club Lead (AWS) · EVP @ **ACCESS**
@@ -35,7 +35,7 @@ Software/cloud engineer and CS student. I build full-stack web apps, design syst
 
 ---
 
-## Tech Stack
+## Tech Stack (
 
 ### Languages
 
