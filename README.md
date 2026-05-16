@@ -35,7 +35,7 @@ I am a Cloud and Software Engineer, Computer Science student, and digital artist
 
 ---
 
-## Tech Stack (
+## Tech Stack
 
 While I'm open to whatever ecosystem best serves the project, the list below is a snapshot of what I've been working with recently.
 
