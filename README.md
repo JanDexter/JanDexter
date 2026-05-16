@@ -37,6 +37,8 @@ I am a Cloud and Software Engineer, Computer Science student, and digital artist
 
 ## Tech Stack
 
+While I'm open to whatever ecosystem best serves the project, the list below is a snapshot of what I've been working with recently.
+
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
