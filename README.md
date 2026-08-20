@@ -27,7 +27,7 @@ Builder Group at Ateneo de Davao, teaching workshops, and organizing hackathons.
 | Project | What it is | Live |
 |---|---|---|
 | **NAMEGRID** | One name, every TLD. Live RDAP availability against authoritative registries, with registrar prices side by side. | [Live](https://namegrid.jandexter.me) · [Code](https://github.com/JanDexter/domain-name-finder) |
-| **Decus** | Gamified microcredentials on Sui. An NFC tap or a time-bound code mints a SoulBound NFT, ready to drop onto LinkedIn. | [Code](https://github.com/JanDexter/sui-builders) |
+| **Decus** — 🥈 2nd place, Sui Builders | Gamified microcredentials on Sui. An NFC tap or a time-bound code mints a SoulBound NFT, ready to drop onto LinkedIn. | [Code](https://github.com/JanDexter/sui-builders) |
 | **reckon** | Version-controlled memory for a codebase — auto-generates a `MEMOIR.md` per module and blocks regressions before they leave the IDE. Rust CLI plus MCP server. | [Code](https://github.com/JanDexter/reckon) |
 | **Odoo Hotel Module** | Custom Odoo addon for hotel operations — room types, charges, booking data. | [Code](https://github.com/JanDexter/Odoo-hotel-addon) |
 
