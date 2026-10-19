@@ -20,6 +20,8 @@ I care about how a thing feels, not just whether it returns a 200.
 The other half of my time goes to the local dev community: running the AWS Student
 Builder Group at Ateneo de Davao, teaching workshops, and organizing hackathons.
 
+
+If you somehow find this, I use a completely different private account for more serious work-related stuff. Some stuff here are unfiltered and random.
 ---
 
 ## Selected Work
