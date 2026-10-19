@@ -16,7 +16,7 @@ I build products end to end: figuring out what should exist, architecting the sy
 
 Beyond product engineering, I dedicate time to building the local developer ecosystem: leading the AWS Student Builder Group at Ateneo de Davao, conducting hands-on technical workshops, and organizing hackathons and community conferences across Mindanao.
 
-*Note: Production client and proprietary repositories live under separate private organizations. This personal account hosts open-source work, experimental side projects, and developer tools.*
+*Note: Production client and proprietary repositories live under separate private organizations. This personal account hosts academic requirements, open-source work, experimental side projects, and developer tools.*
 
 ---
 
