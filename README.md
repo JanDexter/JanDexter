@@ -14,7 +14,7 @@ Davao City, Philippines · BS Computer Science, Ateneo de Davao University
 
 I build products end to end: figuring out what should exist, architecting the system, and shipping it. I choose the stack per problem instead of carrying a fixed one around, which is why my work spans everything from Rust and TypeScript to Python, Go, and Flutter. A background in 3D and visual design means I prioritize how software feels, not just whether an endpoint returns a 200.
 
-Beyond product engineering, I dedicate time to building the local developer ecosystem: leading the AWS Student Builder Group at Ateneo de Davao, conducting hands-on technical workshops, and organizing hackathons and community conferences across Mindanao.
+Beyond product engineering, I dedicate time to building the local developer ecosystem: leading the AWS Student Builder Group at Ateneo de Davao, conducting hands-on technical workshops, and organizing hackathons and community conferences across the Philippines.
 
 *Note: Production client and proprietary repositories live under separate private organizations. This personal account hosts academic requirements, open-source work, experimental side projects, and developer tools.*
 
